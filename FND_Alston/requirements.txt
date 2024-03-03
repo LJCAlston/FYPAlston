@@ -1,0 +1,9 @@
+Requirements:
+Python 
+Flask
+Modules:
+CORS
+torch
+transformers
+BertTokenizer
+BertForSequenceClassification
